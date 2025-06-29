@@ -1,0 +1,7 @@
+[
+  { "email": "jbandu@gmail.com", "password": "Memphis123", "valid": true },
+  { "email": "wrong@example.com", "password": "wrongpass", "valid": false },
+  { "email": "jbandu2@gmail.com", "password": "Memphis123", "valid": true },
+  { "email": "testuser@example.com", "password": "Test1234", "valid": false }
+]
+
